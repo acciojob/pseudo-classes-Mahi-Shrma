@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	 background-color:rgb(135, 206, 235);
+}
+h1{
+	background-color:black;
+	margin:1px;
+	color:white;
+}
+p:nth-child(2,3){
+	color:black;
+}
+p:last-child{
+	color:red;
+}
