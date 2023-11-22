@@ -2,10 +2,10 @@
 :root{
 	 background-color:rgb(135, 206, 235);
 }
-h1{
+.container{
 	background-color:black;
 	margin:1px;
-	color:white;
+	color:rgb(255 255 255);
 }
 p:nth-child(2){
 	color:black;
