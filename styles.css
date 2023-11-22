@@ -13,3 +13,20 @@ p:nth-child(2,3){
 p:last-child{
 	color:red;
 }
+li{
+	width:50%;
+	padding:10px;
+	background-color:grey
+}
+li:nth-child(1){
+	font-size:22px;
+}
+li:last-child{
+	font-size:22px;
+}
+li:nth-child(odd){
+	background-color:white;
+}
+li:nth-child(3){
+	background-color:pink;
+}
